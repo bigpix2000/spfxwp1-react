@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "rawreact-client-side-solution",
+    "id": "21b86aea-ac21-4520-abe5-42784fac29a0",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/rawreact.sppkg"
+  }
+}

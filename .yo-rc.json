@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.1.1",
+    "libraryName": "rawreact",
+    "libraryId": "21b86aea-ac21-4520-abe5-42784fac29a0",
+    "environment": "spo"
+  }
+}
